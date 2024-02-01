@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Neste projeto o bjetivo consistiu na criação de um banco de dados integrado a um aplicativo Android, proporcionando a capacidade de realizar operações básicas por meio deste sistema.
+Neste projeto o bjetivo consistiu na criação de um banco de dados utilizando o SQLite integrado a um aplicativo Android, proporcionando a capacidade de realizar operações básicas por meio deste sistema.
 Temos aqui alguns exemplos: 
 ```
     //criar a tabela
